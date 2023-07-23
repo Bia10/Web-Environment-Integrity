@@ -1,12 +1,3 @@
-# Web Environment Integrity API
-
-This repository details the proposal to add a new API for determining the integrity
-of web environments:
-
-```js
-const attestation = await navigator.getEnvironmentIntegrity("...");
-```
-
-The [explainer](./explainer.md) goes gives a high level overview of the proposal.
-
-The [spec](https://rupertbenwiser.github.io/Web-Environment-Integrity/) currently describes how this is being prototyped in Chromium.
+# Alphabet, Inc, trying to rob users of all their freedoms, security and privacy. Gain absurd powers of controll over web clients never seen in entirey history of web. 
+# THIS SHIT IS PURE EVIL, MUST BE STOPED AT ANY COST.
+# THIS REPOSITORY IS DIRECT THREAT TO HUMANITY AND SHOULD BE TAKEN DOWN~!
